@@ -1,0 +1,85 @@
+buenos dias:good morning
+buenas tardes:good afternoon
+buenas noches:good night
+mucho gusto:nice to meet you
+bienvenidos:welcome
+soy:I'm
+yo:I
+camisa:shirt
+camiseta:t-shirt
+vaqueros:jeans
+zapatos:shoes
+sudadera:sweatshirt
+pantalones:pants
+zapatos tenis:tennis shoes
+vestido:dress
+falda:skirt
+sandalias:sandals
+gorro:cap
+abrigo:coat
+bufanda:scarf
+botas:boots
+chaqueta:jacket
+boligrafo:pen
+cuaderno:notebook
+amigo:friend
+cuantas:how many
+cuanto:how much
+cual:which
+lean:lean
+cierren el libro:turn the page
+miren hacia arriba:look up
+abran el libro:open the book
+saquen el boligrafo:take out the pen
+levanten la mano:raise your hand
+cuenten:count
+escuchen:listen
+mira:look
+llevas:wearing
+corren:run
+lee:read
+habla:speak
+igualmente:likewise
+repetir:repeat
+respuesta:answer
+completa:complete
+correcto:correct
+imagen:image
+foto:photo
+clase:class
+hay:there is
+repaso:review
+cuesta:cost
+todos:all
+indica:indicate
+de:of
+respuestas:answers
+son:are
+el:the
+estoy bien:I'm fine
+biblioteca:library
+el profesor habla con un amigo:the professor talks to a friend
+hola, como estas:hello, how are you
+muy bien, gracias:very good, thank you
+estudiantes de la universidad:students at the univeristy
+como te llamas:what is your name
+escriban en el cuaderno:write in the notebook
+ponganse de pie:stand up
+sientense:sit down
+que ropa llevas:what clothes are you wearing
+leyendo un libro:reading a book
+usted:you(formal)
+verde:green
+azul:blue
+anaranjada:orange
+negro:black
+amarillo:yellow
+rosado:pink
+blanca:white
+rojo:red
+morado:purple
+color cafe claro:light brown
+grises:grey
+color cafe:brown
+con:with
+de:at

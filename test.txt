@@ -1,0 +1,20 @@
+mesa:table
+marcador:marker
+estudiantes:students
+luces:lights
+reloj:clock
+pantalla:screen
+cartel:sign
+mapa:map
+pequena:window
+pared:wall
+piso:floor
+silla:chair
+pupitre:desk
+borrador:eraser
+escritorio:teacher's desk
+computadora portatil:laptop
+pizarra:board
+puerta:door
+proyector:projector
+techo:ceiling

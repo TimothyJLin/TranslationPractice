@@ -1,0 +1,25 @@
+cara:face
+pie:foot
+hombro:shoulder
+cabeza:head
+mano:hand
+ojos:eyes
+oreja:ear
+nariz:nose
+espalda:back
+pierna:leg
+estomago:stomach
+boca:mouth
+brazo:arm
+cuerpo:body
+pelo:hair
+cuello:neck
+detras:behind
+al lado:beside
+entre:between
+encima:on
+debajo:below
+delante:in front of
+pero:but
+tenemos:we are
+mayor:elderly
